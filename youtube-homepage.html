@@ -3,27 +3,38 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/styles.css">
   <title>YouTube</title>
 </head>
 <body>
 
   <nav class="nav-bar">
-    <img id="img-logo" src="/imgs/yt logo.png" alt="youtube-logo">
+    <img id="img-logo" src="/assets/yt logo.png" alt="youtube-logo">
     <input id="search-bar" type="text" placeholder="Search...">
     <button id="search-button" type="submit" >Search</button>
-    <img id="create-img" src="/imgs/create.png" alt="create">
-    <img id="apps-img" src="/imgs/apps.png" alt="apps">
-    <img id="notifications-img" src="/imgs/notifications.png">
+    <img id="create-img" src="/assets/create.png" alt="create">
+    <img id="apps-img" src="/assets/apps.png" alt="apps">
+    <img id="notifications-img" src="/assets/notifications.png">
   </nav>
 
   <section class="video-section">
-    <!-- the video player -->
-    <iframe>
-    </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HbSjyU2vf6Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h1>Git & GitHub Tutorial for Beninners by Net Ninja</h1>
+      <ul>
+                <li><a href="#">
+          <img id="dislikes" src="/assets/dislikes.png">Dislikes</p></li>
+        <li>
+          <img id="share-img" src="/assets/share.png">
+          <a id="share" href="#"> Share</a></li>
+          <li><p id="views" href="#">66.341 views</p></li>
+      </ul>
   </section>
 
-  <article class="comment-section">
-    <!-- place to write comments using <textarea></textarea> -->
+  <article class="description">
+    <p>Hey ninjas, in this Git & GitHub tutorial I want to show you 
+      how you can fork a repository to your own GitHub account. You'd 
+      typically do this if you wanted to contribute to some kind of 
+      open source project.</p>
   </article>
 
   <aside>

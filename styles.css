@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flexbox;
+}
+
+.nav-bar {
+
+
+}
+
+#img-logo {
+  width: 100px;
+}
+
+#create-img, #apps-img, #notifications-img {
+  width: 50px;
+
+}
+
+.video-section {
+
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  
+}
+
+#dislikes {
+  width: 50px;
+}
+
+#share-img {
+  width: 40px;
+}
+
+li:last-child {
+  padding-left: 15em;
+}
