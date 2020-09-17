@@ -4,13 +4,12 @@ body {
 }
 
 .nav-bar {
+  width: 100%;
   z-index: 1;
-  position: absolute;
+  position: top;
   display: flex;
   align-items: center;
-  
-  
-}
+  }
 
 #img-logo {
   width: 100px;
@@ -22,22 +21,29 @@ body {
 
 }
 
+h1 {
+  width: 70%;
+}
+
 .video-section {
 position: relative;
-
+width: fit-content;
 }
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-
+  
 }
 
 li {
   display: inline-block;
   margin: 0;
   padding: 0;
+  padding: 4px;
+
+  
   
 }
 
@@ -45,35 +51,39 @@ li {
   width: 50px;
 }
 
+#likes {
+  width: 35px;
+  height: 35px;
+}
+
 #share-img {
   width: 40px;
 }
 
 li:last-child {
-  padding-left: 15em;
+  padding-left: 26em;
 }
 
 .split {
   
   height: 100%;
-  width: 50%;
+  top: 35px;
   position:absolute;
-  
-  top: 0;
   overflow-x: hidden;
-  padding-top: 20px;
+  padding-top: 40px;
 }
 
 /* Control the left side */
 .left {
-  
+  margin: 15px;
+  width: 68%;
   left: 0;
   
 }
 
 /* Control the right side */
 .right {
-  
+  width: 30%;
   right: 0;
   
 }
