@@ -7,7 +7,6 @@
   <title>YouTube</title>
 </head>
 <body>
-
   <nav class="nav-bar">
     <img id="img-logo" src="/assets/yt logo.png" alt="youtube-logo">
     <input id="search-bar" type="text" placeholder="Search...">
@@ -16,14 +15,17 @@
     <img id="apps-img" src="/assets/apps.png" alt="apps">
     <img id="notifications-img" src="/assets/notifications.png">
   </nav>
-
+<div class="split left" >
+  
   <section class="video-section">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/HbSjyU2vf6Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h1>Git & GitHub Tutorial for Beninners by Net Ninja</h1>
       <ul>
                 <li><a href="#">
           <img id="dislikes" src="/assets/dislikes.png">Dislikes</p></li>
-        <li>
+          <li><a href="#">
+            <img id="likes" src="/assets/likes.png" height=30 width=30>likes</p></li>
+          <li>   
           <img id="share-img" src="/assets/share.png">
           <a id="share" href="#"> Share</a></li>
           <li><p id="views" href="#">66.341 views</p></li>
@@ -36,10 +38,17 @@
       typically do this if you wanted to contribute to some kind of 
       open source project.</p>
   </article>
+  </div>
 
-  <aside>
+  <div class="split right">
     <!-- the other mini videos on the side-->
-  </aside>
+    <img id=video1 src="/assets/videoimg1.png">
+    <img id=video1 src="/assets/videoimg2.png">
+    <img id=video1 src="/assets/videoimg3.png">
+    <img id=video1 src="/assets/videoimg4.png">
+    <img id=video1 src="/assets/videoimg5.png">
+  </div>
+
 
   <footer>
     <!-- not sure if needed-->
