@@ -104,6 +104,7 @@ article {
 
 /* Control the left side */
 .left {
+  padding-left: 10px;
   margin-top: 50px;
   position: absolute;
   display: flex;
