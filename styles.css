@@ -44,8 +44,14 @@ body {
   width: 50px;
 }
 
+section {
+  width: 100;
+}
+
 h1 {
-  width: 70%;
+  font-size: 24px;
+  font-family: Roboto, Arial, sans-serif;
+  text-decoration: underline;
 }
 
 iframe {
@@ -54,34 +60,39 @@ iframe {
 }
 
 ul {
+  width: 68%;
+  display: inline-flex;
+  align-items: center;
+  align-content: center;
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 li {
-  display: inline-block;
+  display: inline-flex;
+  align-content: center;
+  align-items: center;
   margin: 0;
   padding: 0;
   padding: 4px;
   font-size: 14px;
 }
 
-#dislikes {
-  width: 50px;
+.views {
+  margin-left: 20px;
+  justify-content: flex-end;
 }
 
-#likes {
-  width: 35px;
-  height: 35px;
+
+a {
+  text-decoration: none;
+  color: gray;
+  font-size: 16px;
 }
 
-#share-img {
-  width: 40px;
-}
-
-#views {
-  float: riht;
+#right-item {
+  float: right;
 }
 
 #subscribe-btn {
