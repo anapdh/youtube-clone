@@ -4,8 +4,7 @@
 
 > This is our first project for Microverse.
 
-![screenshot](.assets/SCREENSHOT.png)
-
+![screenshot](./assets/SCREENSHOT.png)
 
 ## Built With
 
@@ -14,7 +13,6 @@
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
-
 
 ## Authors
 
@@ -39,7 +37,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
 
 ## 📝 License
 
