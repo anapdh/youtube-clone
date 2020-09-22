@@ -96,7 +96,10 @@ a {
 }
 
 #subscribe-btn {
-   float: right;
+  width: 110px;
+  height: 30px;
+  float: right;
+   
 }
 
 article {
@@ -138,4 +141,8 @@ article {
   /*
   width: 30%;
   right: 0;*/
+}
+
+img.avatar-img {
+  width: 25%;
 }
