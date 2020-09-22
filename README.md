@@ -4,7 +4,7 @@
 
 > This is our first project for Microverse.
 
-![screenshot](./app_screenshot.png)
+![screenshot](.assets/SCREENSHOT.png)
 
 
 ## Built With
@@ -27,7 +27,7 @@
 👨🏻‍💻 **Mohd Nayeem Shah**
 
 - GitHub: [@shahnaeem](https://github.com/shahnaeem)
-- Twitter: [@twitterhandle](https://twitter.com/MOHDNAYEEMSHAH1)
+- Twitter: [@mohdnayeemshah1](https://twitter.com/MOHDNAYEEMSHAH1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mohd-nayeem-shah-97a590152)
 
 ## 🤝 Contributing
