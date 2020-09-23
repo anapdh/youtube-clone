@@ -16,36 +16,30 @@ body {
 }
 
 .nav1 {
-  width: 80%;
   display: inline-flex;
+  width: 80%;
+  
 }
 
 .nav2 {
-  width: 20%;
   display: inline-flex;
-  justify-content: flex-end
+  justify-content: flex-end;
+  width: 20%;
 }
 
-#img-logo {
+.navicons {
   width: 70px;
   height: 30px;
 }
 
-#search-bar {
+.resize {
+  width: auto;
+}
+
+.search-bar {
   margin-left: 10%;
   width: 800px;
-  height: 25px;
-}
-
-#search-button {
-  width: 70px;
-  height: 30px;
-}
-
-
-#create-img, #apps-img, #notifications-img {
-  width: 50px;
-  height: 60%;
+  height: auto;
 }
 
 h1 {
@@ -55,6 +49,7 @@ h1 {
 }
 
 .responsive-iframe {
+ 
   width: 68%;
   height: 400px;
 }
@@ -78,11 +73,7 @@ li {
   justify-content: flex-end;
 }
 
-#right-item {
-  float: right;
-}
-
-#subscribe-btn {
+.subscribe-btn {
   width: 110px;
   height: 30px;
   float: right;
