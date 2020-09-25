@@ -152,5 +152,15 @@ p{
   align-items: center;
   float: right;
 }
+.subscribeimage img{
+  width: 120px;
+  height:35px;
+  align-items: center;
+}
+.project-name{
 
+  font-weight:bold;
+  color:black;
+  margin-top: 10px;
+}
 
