@@ -62,6 +62,8 @@ ul {
 }
 
 li {
+  color: grey;
+  float: right;
   display: inline-flex;
   align-content: center;
   align-items: center;
@@ -82,11 +84,14 @@ li {
 article {
   width: 68%;
 }
-
+.subscribe-btn{
+  float: left;
+}
 img.avatar-img {
   width: 25%;
 
-}a {
+}
+a {
   text-decoration: none;
   color: gray;
   font-size: 16px;
@@ -104,4 +109,56 @@ img.avatar-img {
   position: absolute;
   margin-top: 50px;
   left: 69%;
+ display:inline-flexbox;
 }
+p{
+    margin: 0 10px;
+}
+.side-item{
+    height: 9vw;
+    width: 28vw;
+}
+.side-img{
+    width: 12vw;
+    height: 80%;
+    flex-shrink: 0;
+}
+.contained-img{
+    height: 100%;
+    width: 100%;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+}
+.v-margin{
+    margin: 10px 0;
+}
+.bold{
+    font-weight: bold;
+}
+.black{
+    color: black;
+}
+.gray{
+    color: gray;
+}
+.color-changing:hover{
+    color: black;
+}
+.likes-dislikes-share{
+display:flex;
+flex-direction: row;
+margin-left:53%;
+}
+.text-like-dislike{
+color:grey;
+display:inline-flex;
+flex-direction: row;
+}
+
+
