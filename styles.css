@@ -163,4 +163,13 @@ p{
   color:black;
   margin-top: 10px;
 }
+.t-image{
+height:80%;
+width:70%;
+}
+.article-cols{
+  display: flex;
+  flex-direction: column;
+  margin-left: -50px;
+}
 
