@@ -48,7 +48,6 @@ h1 {
 }
 
 .responsive-iframe {
- 
   width: 68%;
   height: 400px;
 }
@@ -70,17 +69,14 @@ li {
 }
 
 .views {
-    margin: 0;
-    margin-top: -20px;
-    text-align: right;
+    margin-top: -30px;
     float: right;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .subscribe-btn {
   width: 110px;
   height: 30px;
-
 }
 
 article {
@@ -103,71 +99,85 @@ a {
 /* Control the right side */
 .split-right {
   position: absolute;
-  margin-top: 50px;
   left: 69%;
- display:inline-flexbox;
+  margin-top: 50px;
 }
 
 p{
-    margin: 0 10px;
+  margin: 0 5px;
+  font-size: 14px;
 }
+
 .side-item{
-    height: 9vw;
-    width: 28vw;
+  height: 9vw;
+  width: 28vw;
 }
-.side-img{
-    width: 12vw;
-    height: 80%;
-    flex-shrink: 0;
+
+.side-img {
+  width: 12vw;
+  height: 80%;
+  flex-shrink: 0;
 }
-.contained-img{
-    height: 100%;
-    width: 100%;
+
+.contained-img {
+  height: 100%;
+  width: 100%;
 }
-.flex-row{
-    display: flex;
-    flex-direction: row;
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
 }
-.flex-col{
-    display: flex;
-    flex-direction: column;
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
 }
-.v-margin{
-    margin: 10px 0;
+
+.v-margin {
+  margin: 10px 0;
 }
-.bold{
-    font-weight: bold;
+
+.bold {
+  font-weight: bold;
 }
-.black{
-    color: black;
+
+.black {
+  color: black;
 }
-.gray{
-    color: gray;
+
+.gray {
+  color: gray;
 }
-.color-changing:hover{
-    color: black;
+
+.color-changing:hover {
+  color: black;
 }
+
 .likes-dislikes-share a {
   display: inline-flex;
   align-items: center;
   float: right;
 }
-.subscribeimage img{
+
+.subscribeimage img {
   width: 120px;
   height:35px;
   align-items: center;
 }
-.project-name{
 
+.project-name {
   font-weight:bold;
   color:black;
   margin-top: 10px;
 }
-.t-image{
+
+.t-image {
 height:80%;
 width:70%;
 }
-.article-cols{
+
+.article-cols {
   display: flex;
   flex-direction: column;
   margin-left: -50px;
