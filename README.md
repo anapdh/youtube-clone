@@ -28,7 +28,7 @@ To run this project, you need a computer or a mobile device with any operating s
 ### Setup
 Just download the source code.
 ### Install
-Go to he downloaded folder and search for index.html file and open it in your favorite web-browser.
+Go to the downloaded folder and search for index.html file and open it in your favorite web-browser.
 ### Usage
 This project is a youtube clone and allows you to watch the videos online.
 ## Authors
