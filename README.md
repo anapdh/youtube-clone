@@ -31,11 +31,6 @@ just download the code
 Go to he downloaded folder and search for index.html file and open it in your favorite web browser.
 ### Usage
 This projects diplays the videos.
-### Run tests
-
-### Deployment
-
-
 ## Authors
 
 👩🏼‍💻 **Ana Paula Hübner**
