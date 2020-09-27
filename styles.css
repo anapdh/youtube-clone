@@ -1,0 +1,184 @@
+html {
+    background-color: #F9F9F9; 
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-bar {
+  width: 100%;
+  display: inline-flex;
+  align-items: center;
+}
+
+.nav1 {
+  display: inline-flex;
+  width: 80%;
+}
+
+.nav2 {
+  display: inline-flex;
+  justify-content: flex-end;
+  width: 20%;
+}
+
+.navicons {
+  width: 70px;
+  height: 30px;
+}
+
+.resize {
+  width: auto;
+}
+
+.search-bar {
+  margin-left: 10%;
+  width: 800px;
+  height: auto;
+}
+
+h1 {
+  font-size: 24px;
+  font-family: Roboto, Arial, sans-serif;
+  text-decoration: underline;
+}
+
+.responsive-iframe {
+  width: 68%;
+  height: 400px;
+}
+
+ul {
+  width: 68%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  color: grey;
+  float: right;
+  display: inline-flex;
+  align-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+
+.views {
+    margin-top: -30px;
+    float: right;
+    font-size: 20px;
+}
+
+.subscribe-btn {
+  width: 110px;
+  height: 30px;
+}
+
+article {
+  width: 68%;
+}
+
+a {
+  text-decoration: none;
+  color: gray;
+  font-size: 16px;
+}
+
+/* Control the left side */
+.split-left {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 10px;
+}
+
+/* Control the right side */
+.split-right {
+  position: absolute;
+  left: 69%;
+  margin-top: 50px;
+}
+
+p{
+  margin: 0 5px;
+  font-size: 14px;
+}
+
+.side-item{
+  height: 9vw;
+  width: 28vw;
+}
+
+.side-img {
+  width: 12vw;
+  height: 80%;
+  flex-shrink: 0;
+}
+
+.contained-img {
+  height: 100%;
+  width: 100%;
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.v-margin {
+  margin: 10px 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.black {
+  color: black;
+}
+
+.gray {
+  color: gray;
+}
+
+.color-changing:hover {
+  color: black;
+}
+
+.likes-dislikes-share a {
+  display: inline-flex;
+  align-items: center;
+  float: right;
+}
+
+.subscribeimage img {
+  width: 120px;
+  height:35px;
+  align-items: center;
+}
+
+.project-name {
+  font-weight:bold;
+  color:black;
+  margin-top: 10px;
+}
+
+.t-image {
+height:80%;
+width:70%;
+}
+
+.article-cols {
+  display: flex;
+  flex-direction: column;
+  margin-left: -50px;
+}
+
