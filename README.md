@@ -24,13 +24,13 @@ Just download the code in your local machine and go to the dowloaded folder,
 search for the index.html file and open it in your favourite browser.
 
 ### Prerequisites
-To run this project, you need a computer or a mobile devise with any operating system and a web browser
+To run this project, you need a computer or a mobile device with any operating system and a web-browser.
 ### Setup
-just download the code
+Just download the source code.
 ### Install
-Go to he downloaded folder and search for index.html file and open it in your favorite web browser.
+Go to he downloaded folder and search for index.html file and open it in your favorite web-browser.
 ### Usage
-This projects diplays the videos.
+This project is a youtube clone and allows you to watch the videos online.
 ## Authors
 
 👩🏼‍💻 **Ana Paula Hübner**
