@@ -18,19 +18,22 @@
 
 [Live Demo Link](https://anapdh.github.io/YouTubeClonePage/)
 
+
 ## Getting Started
 
 Just download the code in your local machine and go to the dowloaded folder,
 search for the index.html file and open it in your favourite browser.
 
 ### Prerequisites
-To run this project, you need a computer or a mobile devise with any operating system and a web browser
+To run this project, you need a computer or a mobile devise with any operating system and a web browser.
 ### Setup
-just download the code
+Just download the code.
 ### Install
 Go to he downloaded folder and search for index.html file and open it in your favorite web browser.
 ### Usage
 This projects diplays the videos.
+
+
 ## Authors
 
 👩🏼‍💻 **Ana Paula Hübner**
@@ -56,6 +59,7 @@ Feel free to check the [issues page](https://github.com/anapdh/YouTubeClonePage/
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
 
 ## Acknowledgments
 
