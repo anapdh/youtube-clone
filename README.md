@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://shahnaeem.github.io/microverse-form/)
+[Live Demo Link](https://anapdh.github.io/YouTubeClonePage/)
 
 
 ## Getting Started
@@ -52,7 +52,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/shahnaeem/microverse-form/issues).
+Feel free to check the [issues page](https://github.com/anapdh/YouTubeClonePage/issues).
 
 
 ## Show your support
