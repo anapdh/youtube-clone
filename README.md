@@ -24,18 +24,13 @@ Just download the code in your local machine and go to the dowloaded folder,
 search for the index.html file and open it in your favourite browser.
 
 ### Prerequisites
-To run this project, you need a computer or a mobile devise with any operating system and a web browser
+To run this project, you need a computer or a mobile device with any operating system and a web-browser.
 ### Setup
-just download the code
+Just download the source code.
 ### Install
-Go to he downloaded folder and search for index.html file and open it in your favorite web browser.
+Go to the downloaded folder and search for index.html file and open it in your favorite web-browser.
 ### Usage
-This projects diplays the videos.
-### Run tests
-
-### Deployment
-
-
+This project is a youtube clone and allows you to watch the videos online.
 ## Authors
 
 👩🏼‍💻 **Ana Paula Hübner**
@@ -55,7 +50,7 @@ This projects diplays the videos.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/anapdh/YouTubeClonePage/issues).
 
 
 ## Show your support
@@ -69,4 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://mit-license.org/) licensed.
