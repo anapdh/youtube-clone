@@ -3,9 +3,9 @@
 
 # Form Clone Page - Microverse Project
 
-> This is our second project for Microverse.
+> This is our first project for Microverse.
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/SCREENSHOT.png)
 
 
 ## Built With
