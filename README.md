@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://anapdh.github.io/YouTubeClonePage/)
+[Live Demo Link](https://anapdh.github.io/youtube-clone/)
 
 
 ## Getting Started
@@ -44,15 +44,15 @@ This projects diplays the videos.
 👩🏼‍💻 **Ana Paula Hübner**
 
 - GitHub: [@anapdh](https://github.com/anapdh)
-- Twitter: [@anapdh](https://twitter.com/anapdh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ana-paula-hübner-7a9484181)
+- Twitter: [@anapdh](https://twitter.com/dev_anahub)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/anapdh)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/anapdh/YouTubeClonePage/issues).
+Feel free to check the [issues page](https://anapdh.github.io/youtube-clone/issues).
 
 
 ## Show your support
