@@ -35,17 +35,17 @@ This projects diplays the videos.
 
 ## Authors
 
+👩🏼‍💻 **Ana Paula Hübner**
+
+- GitHub: [@anapdh](https://github.com/anapdh)
+- Twitter: [@anapdh](https://twitter.com/dev_anahub)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anapdh)
+
 👨🏻‍💻 **Mohd Nayeem Shah**
 
 - GitHub: [@shahnaeem](https://github.com/shahnaeem)
 - Twitter: [@mohdnayeemshah1](https://twitter.com/MOHDNAYEEMSHAH1)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mohd-nayeem-shah-97a590152)
-
-👩🏼‍💻 **Ana Paula Hübner**
-
-- GitHub: [@anapdh](https://github.com/anapdh)
-- Twitter: [@anapdh](https://twitter.com/dev_anahub)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/anapdh)
 
 
 ## 🤝 Contributing
